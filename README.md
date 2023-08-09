@@ -4,8 +4,7 @@ This project is a web-based pathfinding visualizer built using HTML, CSS, and Ja
 
 # Features
 * Interactive grid-based maze generation.
-* Visualization of pathfinding algorithms:
-** Breadth-First Search (BFS)
+* Visualization of pathfinding algorithms: Breadth-First Search (BFS)
 * Real-time visualization of algorithm decision-making.
 * Ability to generate random mazes with obstacles.
 
